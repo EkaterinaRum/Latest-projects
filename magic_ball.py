@@ -11,6 +11,7 @@ name = input()
 print()
 print(f'Привет, {name}')
 
+# the main body of my code
 while True:
     print(f'Каков же твой вопрос, {name}?')
     input()
