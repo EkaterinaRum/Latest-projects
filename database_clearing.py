@@ -1,3 +1,5 @@
+Чищу данные в таблице с помощью Pandas
+
 import pandas as pd
 import math
 
